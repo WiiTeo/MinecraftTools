@@ -4,7 +4,7 @@ import requests
 
 # By WiiTeo
 
-# MinecraftTools is based in minecraft-api.com
+# MinecraftTools use minecraft-api.com
 
 def get_uuid(pseudo):
     # https://minecraft-api.com/api/uuid/{pseudo}
