@@ -1,6 +1,6 @@
 import MinecraftTools
 
-MinecraftTools.get_uuid("Pseudo") # Get the UUID of the Player
+MinecraftTools.get_uuid("Pseudo") # Get the UUID of the Player with the Pseudo
 
 MinecraftTools.get_pseudo("UUID") # Get the pseudo of the player with UUID
 
